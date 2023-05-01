@@ -1,8 +1,9 @@
 ### Olá, eu sou o Marco, um estudante de Engenharia de Software! Seja bem-vindo ao meu repositório, fique à vontade para explorar e utilizar o que precisar 😄.
-
 <br>
 
-![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTullio1&show_icons=true&theme=radical)
+![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTullio1&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTullio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
