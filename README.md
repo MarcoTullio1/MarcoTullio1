@@ -26,5 +26,4 @@ Segue abaixo a lista das tecnologias com as quais já tive experiência:
 ## **Caso queira entrar em contato:**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tullio-oliveira)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
- 
-![snake gif](https://github.com/MarcoTullio1/MarcoTullio1/blob/output/github-contribution-grid-snake.svg)
+
