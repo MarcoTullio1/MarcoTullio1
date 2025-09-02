@@ -35,15 +35,14 @@
 <a id="-projetos-em-java"></a>
 | Projeto | Descrição |
 |---|---|
-| **[springboot](https://github.com/MarcoTullio1/springboot)** | Projeto para estudo e aprofundamento no ecossistema Spring Boot. |
-| **[eng-software-economica](https://github.com/MarcoTullio1/eng-software-economica)** | Projeto da disciplina de Engenharia Econômica para Software. |
+| **[springboot](https://github.com/MarcoTullio1/springboot)** | Construção de uma API RESTful com Spring Boot |
 | **[Sistemas_De_Matriculas](https://github.com/MarcoTullio1/Sistemas_De_Matriculas)** | Sistema de matrículas desenvolvido como projeto acadêmico. |
 
 ### 🔹 Outros Projetos
 <a id="-outros-projetos"></a>
 | Projeto | Linguagem | Descrição |
 |---|---|---|
-| **[Trabalho-de-ARQ](https://github.com/MarcoTullio1/Trabalho-de-ARQ)** | Assembly | Trabalho da disciplina de Arquitetura de Computadores. |
+| **[Rede-Neural](https://github.com/MarcoTullio1/Trabalho-de-ARQ)**| 100% Assembly|Trabalho da disciplina de Arquitetura de Computadores. |
 | **[Ola-Mundo](https://github.com/MarcoTullio1/Ola-Mundo)** | HTML/CSS | Meu primeiro repositório público no GitHub. |
 
 ---
