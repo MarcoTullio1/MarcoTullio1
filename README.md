@@ -3,6 +3,9 @@
 </p>
 
 ### Olá, eu sou o Marco, um estudante de Engenharia de Software! Seja bem-vindo ao meu repositório, fique à vontade para explorar e utilizar o que precisar 😄.
+ <a href = "https://www.linkedin.com/in/marco-tullio-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:tulliomarco93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <br>
 
 <p align="center">
@@ -43,8 +46,3 @@
 | **[Ola-Mundo](https://github.com/MarcoTullio1/Ola-Mundo)** | HTML/CSS | Meu primeiro repositório público no GitHub. |
 
 ---
-
-## **Caso queira entrar em contato:**
- <a href = "https://www.linkedin.com/in/marco-tullio-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:tulliomarco93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
