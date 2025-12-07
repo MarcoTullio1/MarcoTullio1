@@ -116,7 +116,6 @@ Sou estudante de **Engenharia de Software**, apaixonado por desenvolvimento web 
 | [**springboot**](https://github.com/MarcoTullio1/springboot) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | API RESTful com Spring Boot |
 | [**Sistemas_De_Matriculas**](https://github.com/MarcoTullio1/Sistemas_De_Matriculas) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Sistema de matrículas acadêmico |
 | [**Rede-Neural**](https://github.com/MarcoTullio1/Trabalho-de-ARQ) | ![Assembly](https://img.shields.io/badge/-Assembly-007AAC?style=flat-square&logo=assemblyscript&logoColor=white) | Rede neural em Assembly |
-| [**Ola-Mundo**](https://github.com/MarcoTullio1/Ola-Mundo) | ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white) | Meu primeiro repositório 🎉 |
 
 ---
 
