@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-🎓 Estudante de **Engenharia de Software** com foco em **desenvolvimento web Full Stack**.
+🎓 Formado em **Engenharia de Software** pela PUCMG com foco em **desenvolvimento web Full Stack**.
 
 💼 Busco oportunidades como **Desenvolvedor Backend** ou **Full Stack**, onde possa aplicar meus conhecimentos em  **C#/.NET** para criar soluções escaláveis e de impacto.
 
